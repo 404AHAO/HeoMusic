@@ -4,11 +4,11 @@ var userType = "playlist";
 var localMusic = [
     // Khalil Fong 方大同
     {
-        name: 'love song',
+        name: 'singalongsong',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.mp3',
-        cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.jpg',
-        lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.lrc'
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.mp3',
+        cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.jpg',
+        lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.lrc'
     },
     {
         name: 'rosy (live)',
@@ -16,13 +16,6 @@ var localMusic = [
         url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Rosy%20(Live).mp3',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Rosy%20(Live).jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Rosy%20(Live).lrc'
-    },
-    {
-        name: 'singalongsong',
-        artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.mp3',
-        cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.jpg',
-        lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.lrc'
     },
     {
         name: '三人游',
@@ -81,6 +74,13 @@ var localMusic = [
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%98%A5%E9%A3%8E%E5%90%B9.lrc'
     },
     {
+        name: 'love song',
+        artist: '方大同',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.mp3',
+        cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.jpg',
+        lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.lrc'
+    },
+    {
         name: '爱爱爱',
         artist: '方大同',
         url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%88%B1%E7%88%B1.mp3',
@@ -135,6 +135,48 @@ var localMusic = [
         url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.mp3',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.lrc'
+    },
+    {
+        name: "Nothing's Gonna Change My Love For You",
+        artist: '方大同',
+        url: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.mp3",
+        cover: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.jpg",
+        lrc: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.lrc"
+    },
+    {
+        name: '小小虫',
+        artist: '方大同',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Still%20Love%20You.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%B0%8F%E5%B0%8F%E8%99%AB.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Still%20Love%20You.lrc'
+    },
+    {
+        name: '每个人都会',
+        artist: '方大同',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.lrc'
+    },
+    {
+        name: '爱在',
+        artist: '方大同',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.lrc'
+    },
+    {
+        name: '爱立刻',
+        artist: '方大同',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.lrc'
+    },
+    {
+        name: '那沙滩里的水',
+        artist: '方大同',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%82%A3%E6%B2%99%E6%BC%A0%E9%87%8C%E7%9A%84%E6%B0%B4.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%82%A3%E6%B2%99%E6%BC%A0%E9%87%8C%E7%9A%84%E6%B0%B4.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%82%A3%E6%B2%99%E6%BC%A0%E9%87%8C%E7%9A%84%E6%B0%B4.lrc'
     },
     // 卢广仲
     {
@@ -206,6 +248,27 @@ var localMusic = [
         url: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E9%B1%BC%E4%BB%94.mp3',
         cover: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E9%B1%BC%E4%BB%94.jpg',
         lrc: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E9%B1%BC%E4%BB%94.lrc'
+    },
+    {
+        name: '一个人睡着 (Farewell Love Song)',
+        artist: '卢广仲',
+        url: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9D%A1%E7%9D%80%20(Farewell%20Love%20Song).mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9D%A1%E7%9D%80%20(Farewell%20Love%20Song).jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9D%A1%E7%9D%80%20(Farewell%20Love%20Song).lrc'
+    },
+    {
+        name: '一夜一夜一夜',
+        artist: '卢广仲',
+        url: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%80%E5%A4%9C%E4%B8%80%E5%A4%9C%E4%B8%80%E5%A4%9C.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%80%E5%A4%9C%E4%B8%80%E5%A4%9C%E4%B8%80%E5%A4%9C.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%80%E5%A4%9C%E4%B8%80%E5%A4%9C%E4%B8%80%E5%A4%9C.lrc'
+    },
+    {
+        name: '不要在一起 (Match Point)',
+        artist: '卢广仲',
+        url: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%8D%E8%A6%81%E5%9C%A8%E4%B8%80%E8%B5%B7%20(Match%20Point).mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%8D%E8%A6%81%E5%9C%A8%E4%B8%80%E8%B5%B7%20(Match%20Point).jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E4%B8%8D%E8%A6%81%E5%9C%A8%E4%B8%80%E8%B5%B7%20(Match%20Point).lrc'
     },
     // 丁世光
     {
@@ -306,6 +369,97 @@ var localMusic = [
         url: 'https://image.ahao.ah.cn/David%20Zee%20Tao/%E9%99%B6%E5%96%86%20-%20%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81.mp3',
         cover: 'https://image.ahao.ah.cn/David%20Zee%20Tao/%E9%99%B6%E5%96%86%20-%20%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81.jpg',
         lrc: 'https://image.ahao.ah.cn/David%20Zee%20Tao/%E9%99%B6%E5%96%86%20-%20%E9%BB%91%E8%89%B2%E6%9F%B3%E4%B8%81.lrc'
+    },
+    {
+        name: '天天',
+        artist: '陶喆',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E5%A4%A9%E5%A4%A9.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E5%A4%A9%E5%A4%A9.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E5%A4%A9%E5%A4%A9.lrc'
+    },
+    {
+        name: '小镇姑娘',
+        artist: '陶喆',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E5%B0%8F%E9%95%87%E5%A7%91%E5%A8%98.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E5%B0%8F%E9%95%87%E5%A7%91%E5%A8%98.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E5%B0%8F%E9%95%87%E5%A7%91%E5%A8%98.lrc'
+    },
+    {
+        name: '普通朋友',
+        artist: '陶喆',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E6%99%AE%E9%80%9A%E6%9C%8B%E5%8F%8B.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E6%99%AE%E9%80%9A%E6%9C%8B%E5%8F%8B.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E6%99%AE%E9%80%9A%E6%9C%8B%E5%8F%8B.lrc'
+    },
+    {
+        name: '爱，很简单',
+        artist: '陶喆',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E7%88%B1%EF%BC%8C%E5%BE%88%E7%AE%80%E5%8D%95.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E7%88%B1%EF%BC%8C%E5%BE%88%E7%AE%80%E5%8D%95.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E7%88%B1%EF%BC%8C%E5%BE%88%E7%AE%80%E5%8D%95.lrc'
+    }, {
+        name: '讨厌红楼梦',
+        artist: '陶喆',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E8%AE%A8%E5%8E%8C%E7%BA%A2%E6%A5%BC%E6%A2%A6.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E8%AE%A8%E5%8E%8C%E7%BA%A2%E6%A5%BC%E6%A2%A6.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%20-%20%E8%AE%A8%E5%8E%8C%E7%BA%A2%E6%A5%BC%E6%A2%A6.lrc'
+    },
+    {
+        name: '那个女孩',
+        artist: '陶喆、卢广仲',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%E3%80%81%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%AD%A9.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%E3%80%81%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%AD%A9.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%B6%E5%96%86%E3%80%81%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%AD%A9.lrc'
+    },
+    // 陈绮贞
+    {
+        name: 'After 17',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20After%2017.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20After%2017.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20After%2017.lrc'
+    },
+    {
+        name: '告诉我',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%91%8A%E8%AF%89%E6%88%91.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%91%8A%E8%AF%89%E6%88%91.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%91%8A%E8%AF%89%E6%88%91.lrc'
+    },
+    {
+        name: '太聪明',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%A4%AA%E8%81%AA%E6%98%8E.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%A4%AA%E8%81%AA%E6%98%8E.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%A4%AA%E8%81%AA%E6%98%8E.lrc'
+    },
+    {
+        name: '小步舞曲',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%B0%8F%E6%AD%A5%E8%88%9E%E6%9B%B2.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%B0%8F%E6%AD%A5%E8%88%9E%E6%9B%B2.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%B0%8F%E6%AD%A5%E8%88%9E%E6%9B%B2.lrc'
+    },
+    {
+        name: '旅行的意义',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89.lrc'
+    },
+    {
+        name: '还是会寂寞',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E8%BF%98%E6%98%AF%E4%BC%9A%E5%AF%82%E5%AF%9E.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E8%BF%98%E6%98%AF%E4%BC%9A%E5%AF%82%E5%AF%9E.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E8%BF%98%E6%98%AF%E4%BC%9A%E5%AF%82%E5%AF%9E.lrc'
+    },
+    {
+        name: '鱼',
+        artist: '陈绮贞',
+        url: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E9%B1%BC.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E9%B1%BC.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E9%B1%BC.lrc'
     },
     // Queen
     {
@@ -458,6 +612,13 @@ var localMusic = [
         lrc: 'https://image.ahao.ah.cn/suiting/%E9%BB%84%E9%9B%A8%E5%8B%B3%20-%20%E7%BA%9F%E7%BA%9F.lrc'
     },
     // 李荣浩
+    {
+        name: '恋人',
+        artist: '李荣浩',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%9D%8E%E8%8D%A3%E6%B5%A9%20-%20%E6%81%8B%E4%BA%BA.mp3',
+        cover: 'https://image.ahao.ah.cn/new%20music/%E6%9D%8E%E8%8D%A3%E6%B5%A9%20-%20%E6%81%8B%E4%BA%BA.jpg',
+        lrc: 'https://image.ahao.ah.cn/new%20music/%E6%9D%8E%E8%8D%A3%E6%B5%A9%20-%20%E6%81%8B%E4%BA%BA.lrc'
+    },
     {
         name: '不将就',
         artist: '李荣浩',
