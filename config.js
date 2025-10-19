@@ -191,7 +191,7 @@ var localMusic = [
         artist: '卢广仲',
         url: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20100%E7%A7%8D%E7%94%9F%E6%B4%BB.mp3',
         cover: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20100%E7%A7%8D%E7%94%9F%E6%B4%BB.jpg',
-        lrc: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20100%E7%A7%8D%E7%94%9F%E6%B4%BB.jpg'
+        lrc: 'https://image.ahao.ah.cn/Crowd%20Lu/%E5%8D%A2%E5%B9%BF%E4%BB%B2%20-%20100%E7%A7%8D%E7%94%9F%E6%B4%BB.lrc'
     },
     {
         name: '几分之几',
