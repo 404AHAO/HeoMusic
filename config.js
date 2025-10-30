@@ -83,7 +83,7 @@ var localMusic = [
     {
         name: '爱爱爱',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%88%B1%E7%88%B1.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%88%B1%E7%88%B1.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%88%B1%E7%88%B1.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%88%B1%E7%88%B1.lrc'
     },
