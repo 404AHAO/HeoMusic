@@ -6,7 +6,7 @@ var localMusic = [
     {
         name: 'singalongsong',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Singalongsong.lrc'
     },
@@ -76,7 +76,7 @@ var localMusic = [
     {
         name: 'love song',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Love%20Song.lrc'
     },
