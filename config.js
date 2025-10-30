@@ -20,28 +20,28 @@ var localMusic = [
     {
         name: '三人游',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%89%E4%BA%BA%E6%B8%B8.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%89%E4%BA%BA%E6%B8%B8.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%89%E4%BA%BA%E6%B8%B8.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%89%E4%BA%BA%E6%B8%B8.lrc'
     },
     {
         name: '为你写的歌',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%BA%E4%BD%A0%E5%86%99%E7%9A%84%E6%AD%8C.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%BA%E4%BD%A0%E5%86%99%E7%9A%84%E6%AD%8C.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%BA%E4%BD%A0%E5%86%99%E7%9A%84%E6%AD%8C.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E4%B8%BA%E4%BD%A0%E5%86%99%E7%9A%84%E6%AD%8C.lrc'
     },
     {
         name: '关于爱的定义',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%85%B3%E4%BA%8E%E7%88%B1%E7%9A%84%E5%AE%9A%E4%B9%89.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%85%B3%E4%BA%8E%E7%88%B1%E7%9A%84%E5%AE%9A%E4%B9%89.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%85%B3%E4%BA%8E%E7%88%B1%E7%9A%84%E5%AE%9A%E4%B9%89.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%85%B3%E4%BA%8E%E7%88%B1%E7%9A%84%E5%AE%9A%E4%B9%89.lrc'
     },
     {
         name: '南音',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%8D%97%E9%9F%B3.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%8D%97%E9%9F%B3.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%8D%97%E9%9F%B3.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%8D%97%E9%9F%B3.lrc'
     },
@@ -55,21 +55,21 @@ var localMusic = [
     {
         name: '好不容易',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%A5%BD%E4%B8%8D%E5%AE%B9%E6%98%93.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%A5%BD%E4%B8%8D%E5%AE%B9%E6%98%93.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%A5%BD%E4%B8%8D%E5%AE%B9%E6%98%93.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%A5%BD%E4%B8%8D%E5%AE%B9%E6%98%93.lrc'
     },
     {
         name: '才二十三',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%89%8D%E4%BA%8C%E5%8D%81%E4%B8%89.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%89%8D%E4%BA%8C%E5%8D%81%E4%B8%89.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%89%8D%E4%BA%8C%E5%8D%81%E4%B8%89.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%89%8D%E4%BA%8C%E5%8D%81%E4%B8%89.lrc'
     },
     {
         name: '春风吹',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%98%A5%E9%A3%8E%E5%90%B9.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%98%A5%E9%A3%8E%E5%90%B9.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%98%A5%E9%A3%8E%E5%90%B9.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%98%A5%E9%A3%8E%E5%90%B9.lrc'
     },
@@ -90,7 +90,7 @@ var localMusic = [
     {
         name: '特别的人',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%89%B9%E5%88%AB%E7%9A%84%E4%BA%BA.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%89%B9%E5%88%AB%E7%9A%84%E4%BA%BA.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%89%B9%E5%88%AB%E7%9A%84%E4%BA%BA.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%89%B9%E5%88%AB%E7%9A%84%E4%BA%BA.lrc'
     },
@@ -104,70 +104,70 @@ var localMusic = [
     {
         name: '红豆',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%BA%A2%E8%B1%86.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%BA%A2%E8%B1%86.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%BA%A2%E8%B1%86.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%BA%A2%E8%B1%86.lrc'
     },
     {
         name: '苏丽珍',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E8%8B%8F%E4%B8%BD%E7%8F%8D.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E8%8B%8F%E4%B8%BD%E7%8F%8D.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E8%8B%8F%E4%B8%BD%E7%8F%8D.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E8%8B%8F%E4%B8%BD%E7%8F%8D.lrc'
     },
     {
         name: '麦恩莉',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BA%A6%E6%81%A9%E8%8E%89.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BA%A6%E6%81%A9%E8%8E%89.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BA%A6%E6%81%A9%E8%8E%89.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BA%A6%E6%81%A9%E8%8E%89.lrc'
     },
     {
         name: '黑洞里',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E6%B4%9E%E9%87%8C.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E6%B4%9E%E9%87%8C.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E6%B4%9E%E9%87%8C.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E6%B4%9E%E9%87%8C.lrc'
     },
     {
         name: '黑白',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.mp3',
+        url: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.flac',
         cover: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.jpg',
         lrc: 'https://image.ahao.ah.cn/Khalil%20Fong/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E9%BB%91%E7%99%BD.lrc'
     },
     {
         name: "Nothing's Gonna Change My Love For You",
         artist: '方大同',
-        url: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.mp3",
+        url: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.flac",
         cover: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.jpg",
         lrc: "https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Nothing's%20Gonna%20Change%20My%20Love%20For%20You.lrc"
     },
     {
         name: '小小虫',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Still%20Love%20You.mp3',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Still%20Love%20You.flac',
         cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E5%B0%8F%E5%B0%8F%E8%99%AB.jpg',
         lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20Still%20Love%20You.lrc'
     },
     {
         name: '每个人都会',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.mp3',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.flac',
         cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.jpg',
         lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E4%BC%9A.lrc'
     },
     {
         name: '爱在',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.mp3',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.flac',
         cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.jpg',
         lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E5%9C%A8.lrc'
     },
     {
         name: '爱立刻',
         artist: '方大同',
-        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.mp3',
+        url: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.flac',
         cover: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.jpg',
         lrc: 'https://image.ahao.ah.cn/new%20music/%E6%96%B9%E5%A4%A7%E5%90%8C%20-%20%E7%88%B1%E7%AB%8B%E5%88%BB.lrc'
     },
